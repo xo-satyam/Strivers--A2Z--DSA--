@@ -1,0 +1,17 @@
+//PROBLEM STATEMENT-Calculate 'gcd(a,b)', without using library functions.
+//PROBLEM-http://naukri.com/code360/problems/hcf-and-lcm_840448?leftPanelTabValue=PROBLEM
+//SOLUTION:-
+#include<bits/stdc++.h>
+using namespace std;
+int calcGCD(int a, int b){
+    
+    while(a>0 && b>0){
+        if(a>b){
+            a=a%b;
+        }else{
+            b=b%a;
+        }
+    }
+    if(a==0) return b;
+    return a;
+}
