@@ -20,18 +20,18 @@
 
 class Solution {
 public:
-    int mostFrequentElement(vector<int>& nums) {
-        map<int,int>mpp;
-        int ans=0;
-        for(int i=0;i<nums.size();i++){
-            mpp[nums[i]]++;
-            if(mpp[nums[i]]>ans){
-                ans=nums[i];
-            }
-        }
-        return ans;
-    }
-};
+    int mostFrequentElement(vector<int>& nums) {\n
+        map<int,int>mpp;\n
+        int ans=0;\n
+        for(int i=0;i<nums.size();i++){\n
+            mpp[nums[i]]++;\n
+            if(mpp[nums[i]]>ans){\n
+                ans=nums[i];\n
+            }\n
+        }\n
+        return ans;\n
+    }\n
+};\n
 
 
 ## 📌 Progress:
