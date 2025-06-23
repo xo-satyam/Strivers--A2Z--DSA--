@@ -16,23 +16,6 @@
   - Used a hash map to count frequencies of all elements.
   - Tracked the maximum frequency and corresponding element.
   - Efficiently solved in O(n) time.
-- **Solution**:
-
-class Solution {
-public:
-    int mostFrequentElement(vector<int>& nums) {\n
-        map<int,int>mpp;\n
-        int ans=0;\n
-        for(int i=0;i<nums.size();i++){\n
-            mpp[nums[i]]++;\n
-            if(mpp[nums[i]]>ans){\n
-                ans=nums[i];\n
-            }\n
-        }\n
-        return ans;\n
-    }\n
-};\n
-
 
 ## 📌 Progress:
 - Completed Lecture 6 of Step 1 in Striver’s DSA Sheet.
