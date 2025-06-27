@@ -18,3 +18,21 @@ public:
         return 0;
     }
 };
+
+//OPTIMAL SOLUTION:-
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int XOR1=0;
+        int maxel = max_element(nums.begin(),nums.end());
+        for(int i=0;i<=maxel;i++){
+            XOR1 =XOR1^i;
+        }
+        int XOR=0;
+        for(int i=0;i<nums.size();i++){
+            XOR=XOR^nums[i];
+        }
+        return XOR1^XOR;
+    }
+};
+
