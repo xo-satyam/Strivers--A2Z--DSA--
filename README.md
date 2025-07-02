@@ -1,42 +1,48 @@
-# 📘 Striver A2Z DSA Sheet Solutions
+# 👋 Hey, I'm Satyam
 
-This repository contains my solutions to the [Striver A2Z DSA Sheet](https://takeuforward.org/interviews/strivers-a2z-dsa-course-sheet-2-0/).  
-I'm solving problems daily to build strong foundations in **Data Structures & Algorithms** using **C++**.
+🎓 I'm a 2nd-year B.Tech student passionate about Data Structures and Algorithms.  
+Currently, I'm learning and practicing DSA using **Striver’s A2Z DSA Sheet** — a step-by-step roadmap to becoming interview-ready.
 
----
-
-## 🧠 Topics Covered So Far
-
-- ✅ Basic Maths
-- ✅ Arrays
-- 🔄 Sorting Techniques
-- 🔄 Recursion
-- ⏳ Hashing
-- ⏳ DSA Theory Notes (ongoing)
+📊 **Track my real-time DSA progress, current streak, and solved problems here:**  
+👉 [My Codolio Profile](https://codolio.com/profile/xo-satyam)
 
 ---
 
-## 📊 Progress Tracker
+## 🚀 Striver A2Z DSA Sheet Progress
 
-| Topic           | Easy | Medium | Hard | Total | Completed | Folder         |
-|-----------------|------|--------|------|--------|-----------|----------------|
-| Basic Maths     | 3    | 0      | 0    | 3      | ✅ 3/3     | `/BASIC MATHS/` |
-| Arrays          | 5    | 9      | 1    | 15     | ✅ 15/15   | `/Array/`       |
-| Recursion       | 2    | 2      | 1    | 5      | ⏳ 4/5     | `/RECURSION/`   |
-| Sorting         | 1    | 1      | 0    | 2      | ⏳ 1/2     | `/Sorting_Tech/` |
-| Hashing         | –    | –      | –    | –      | 🔜 Coming Soon | `/Basic_Hashing.cpp` |
+### 📈 Topic-wise Completion
 
----
+> *(These badges are visual indicators — update the percentage as you make progress)*
 
-## 💻 Language Used
-
-- ✅ **C++**
-- 🚧 Might include **Python** later
+- ![Basics](https://img.shields.io/badge/Basics-80%25-brightgreen?style=for-the-badge&color=4caf50)
+- ![Arrays](https://img.shields.io/badge/Arrays-75%25-brightgreen?style=for-the-badge&color=43a047)
+- ![Searching/Sorting](https://img.shields.io/badge/Searching/Sorting-65%25-yellowgreen?style=for-the-badge&color=689f38)
+- ![Recursion/Backtracking](https://img.shields.io/badge/Recursion/Backtracking-50%25-yellow?style=for-the-badge&color=fbc02d)
+- ![Linked List](https://img.shields.io/badge/Linked%20List-35%25-orange?style=for-the-badge&color=fb8c00)
+- ![More Coming Soon](https://img.shields.io/badge/More-Coming%20Soon-lightgrey?style=for-the-badge&color=bdbdbd)
 
 ---
 
-## 📅 Daily Commit Challenge
+## ⚙️ Tools & Tech Stack
 
-I'm committing code daily to stay consistent and improve step by step. Follow me for daily DSA updates!
+- 👨‍💻 **Languages**: C++, Python  
+- 🧩 **Practice Platforms**: LeetCode, GFG, Codestudio  
+- 📌 **Tracker**: [Codolio](https://codolio.com/profile/xo-satyam)  
+- 🔧 **Version Control**: Git & GitHub  
 
 ---
+
+## 🔭 What's Next?
+
+- ✅ Complete the A2Z Sheet  
+- 🚀 Build practical projects  
+- 💬 Participate in coding contests  
+- 📬 Apply for internships & open source  
+
+---
+
+## 🙌 Connect With Me
+
+If you're working on DSA too, feel free to collaborate or just drop a hi 👋  
+Let’s help each other grow!
+
