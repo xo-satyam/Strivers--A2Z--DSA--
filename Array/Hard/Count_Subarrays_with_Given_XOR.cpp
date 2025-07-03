@@ -5,6 +5,7 @@
 //PROBLEM-https://www.naukri.com/code360/problems/count-subarrays-with-given-xor_1115652?leftPanelTabValue=PROBLEM
 //SOLUTION:-
 #include <bits/stdc++.h>
+using namespace std;
 
 int subarraysXor(vector<int> &arr, int x)
 {
