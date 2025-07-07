@@ -3,6 +3,26 @@
 //PROBLEM-https://www.naukri.com/code360/problems/missing-and-repeating-numbers_6828164?leftPanelTabValue=PROBLEM
 //SOLUTION:-
 
+//APPROACH BY MATHS
+#include <bits/stdc++.h>
+using namespace std;
+vector<int> findMissingRepeatingNumbers(vector < int > a) {
+    long long n=a.size();
+    long long SN = (n*(n+1))/2;
+    long long S2N = (n*(n+1)*(2*n+1))/6;
+    long long S=0,S2=0;
+    for(int i=0;i<n;i++){
+        S +=a[i];
+        S2 += a[i]*a[i];
+    }
+    long long val1 = S-SN;
+    long long val2 = S2-S2N;
+    val2=val2/val1;
+    long long x=(val1+val2)/2;
+    long long y= val2-x;
+    return {(int)x,(int)y};
+}
+
 //APPROACH BY USING BIT OPERATION TECHNIQUE
 #include <bits/stdc++.h>
 using namespace std;
