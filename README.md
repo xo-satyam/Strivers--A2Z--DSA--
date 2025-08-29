@@ -1,24 +1,21 @@
-# 🚀 Striver's A2Z DSA Sheet – My C++ Journey
+# 🚀 Striver's A2Z DSA Sheet – My C++ Journey  
 
-This repository is my **C++ solution collection** for the legendary **Striver A2Z DSA Sheet**, where I tackle one problem at a time—from the easiest to the most challenging (DP, Graphs, you name it).
+Hi 👋 I’m **Satyam**, a B.Tech student passionate about **Data Structures, Algorithms, and Problem Solving**.  
+This repo is my public logbook where I document solutions to Striver’s A2Z DSA Sheet using **C++**.  
 
-Think of this as my personal **DSA battle log**, championing progress with every commit. 🛡️⚔️
-
----
-
-##  About This Repo
-- **Language:** 100% C++ (STL, pointers, and all that jazz!)
-- Structured as a **step-by-step journal** of my problem-solving growth.
-- Perfect for **interview prep, contest practice**, or learning with clarity.
-- Always growing—**PRs and collaboration are welcome**!
+💡 Why? Because I believe **consistency beats motivation**—and this sheet is the perfect roadmap to sharpen coding skills and ace interviews.  
 
 ---
 
-##  Progress Tracker
+## 📝 About This Repo  
+- **Language:** 100% C++ (STL, pointers, templates – my daily tools ⚡)  
+- Structured as a **step-by-step journal** of my DSA journey  
+- Great for **interview prep, contests, or revision**  
+- Open for collaboration—if you have cleaner or optimized solutions, PRs are welcome!  
 
-Manually update your progress using the bar below:
+---
 
-![Progress](https://progress-bar.dev/40/?title=Completed&width=300&color=blue&suffix=%)
+## 📊 Progress Tracker  
 
 | Difficulty | Solved |
 |------------|--------|
@@ -27,13 +24,13 @@ Manually update your progress using the bar below:
 | 🔥 Hard     | 10     |
 | **Total**   | **75** |
 
-*(I’ll keep these numbers up-to-date as I move forward—consistency wins the race!)*
+*(Updated as I move forward—consistency is the secret ingredient 💪)*  
 
 ---
 
-##  Run Locally
+## 🧑‍💻 Run Locally  
 
-To try out any solution:
+To try out any solution:  
 
 ```bash
 git clone https://github.com/xo-satyam/Strivers--A2Z--DSA--.git
